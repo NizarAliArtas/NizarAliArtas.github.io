@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: grey;
+color: wheat;
+}
+
+body{
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	
+}
+
+.chicken{
+	font-size: 30px;
+	color:black; 
+	
+	
+}
+
+.beef{
+	font-size: 30px;
+	color:black; 
+	
+}
+
+.sushi{
+	font-size: 30px;
+	color:black; 
+	
+}
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+	
+}
+h1 {
+	font-weight: bold;
+}
+#myNavbar ul li a {
+	color: black;
+	text-align: center;
+
+}
+.navbar-brand{
+font-size: 30px;	
+font-weight: bolder;
+color: black;
+}
